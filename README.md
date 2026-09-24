@@ -1,0 +1,2 @@
+# AverageMarks
+finding average
